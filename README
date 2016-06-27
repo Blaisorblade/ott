@@ -1,5 +1,5 @@
              Ott
-             
+
 by Peter Sewell and Francesco Zappa Nardelli.
 
 
@@ -7,7 +7,7 @@ Directory contents
 ----------------
 The source distribution contains:
 
-doc/                     the user guide, in html, pdf, and ps 
+doc/                     the user guide, in html, pdf, and ps
 emacs/                   an Ott Emacs mode
 tex/                     auxiliary files for LaTeX
 coq/                     auxiliary files for Coq
@@ -40,7 +40,7 @@ The command
 
   make world
 
-builds the ott binary in the bin/ subdirectory.  
+builds the ott binary in the bin/ subdirectory.
 
 This will compile Ott using ocamlopt.  To force it to
 compile with ocamlc (which may give significantly slower execution
