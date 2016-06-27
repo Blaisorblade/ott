@@ -19,7 +19,7 @@ bin/                     the Ott binary (binary distro only)
 Makefile                 a Makefile for the examples
 LICENCE                  the BSD-style licence terms
 README                   this file (Section 2 of the user guide)
-revisionhistory.txt                   the revision history
+revisionhistory.txt      the revision history
 ocamlgraph-xx.tar.gz     a copy of the ocamlgraph library
 
 (we no longer provide a Windows binary distribution)
