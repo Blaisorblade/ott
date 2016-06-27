@@ -42,7 +42,7 @@ The command
 
 builds the ott binary in the bin/ subdirectory.  
 
-This will compiles Ott using ocamlopt.  To force it to
+This will compile Ott using ocamlopt.  To force it to
 compile with ocamlc (which may give significantly slower execution
 of Ott), do "make world.byt".
 
