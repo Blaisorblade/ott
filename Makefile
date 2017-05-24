@@ -36,9 +36,11 @@
 
 
 world:
+	mkdir -p bin
 	cd src; $(MAKE) install
 
 world.byt:
+	mkdir -p bin
 	cd src; $(MAKE) install.byt
 
 # cleanup ################################################################
