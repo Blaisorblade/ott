@@ -1,0 +1,8 @@
+.depend
+grammar_lexer.ml
+grammar_parser.ml
+grammar_parser.mli
+grammar_parser.output
+ott
+ott.opt
+version.tex
